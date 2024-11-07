@@ -1,6 +1,8 @@
 import React from "react";
 import Title from "./Title";
 import projectOne from "../assets/images/massage3.png";
+import projectTwo from "../assets/images/bodymassage.jpg";
+import projectTwo0 from "../assets/images/dummy5.jpg";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
@@ -23,33 +25,19 @@ const Projects = () => {
           src={projectOne}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          title="Body Massage"
+          des="ആശ്വാസവും പിരിമുറുക്കമോചനവും നൽകുന്ന സമഗ്രമായ, മൃദുലതയുള്ള മസ്സാജ് കൾ  വഴി സമ്പൂർണ്ണ സുഖാനുഭവം കൈവരിക്കുക.
+!"
+          src={projectTwo}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          title="Special Relaxing Massage"
+          des="ശരീരത്തിൻ്റെ മൃദുലതയും പുതുമയും പുതുക്കി തിളക്കമുള്ള ശരീരത്തിലൂടെ  ഉത്സാഹം  നേടുക "
+          src={projectTwo0}
         />
         <ProjectsCard
           title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
-        />
-        <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
-        />
-        <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="ശരീരത്തിൻ്റെ മൃദുലതയും പുതുമയും പുതുക്കി തിളക്കമുള്ള ശരീരത്തിലൂടെ  ഉത്സാഹം  നേടുക "
           src={projectOne}
         />
       </div>

@@ -4,9 +4,11 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 const LeftBanner = () => {
   const [text] = useTypewriter({
     words: [
-      "മനസിനും ശരീരത്തിനും ഒരുപോലെ സുഖം",
       "ആനന്ദം വിരൽ തുമ്പിൽ",
-      "ഓരോ തലോടലും ആനന്ദകരം ,ആശ്വാസകരം",
+      "മനസിനും ശരീരത്തിനും ഒരുപോലെ ",
+
+      "ഓരോ തലോടലും സുഖം",
+      "ആനന്ദം ആശ്വാസം  ആസ്വദിക്കുവിൻ ",
     ],
     loop: true,
     typeSpeed: 20,
@@ -21,7 +23,7 @@ const LeftBanner = () => {
           Hi, I'm{" "}
           <span className="text-designColor capitalize">VEDA WELLNESS</span>
         </h1>
-        <h2 className="text-4xl font-bold text-white">
+        <h2 className="text-2xl font-bold text-white">
           <span>{text}</span>
           <Cursor
             cursorBlinking="false"
@@ -29,11 +31,18 @@ const LeftBanner = () => {
             cursorColor="#ff014f"
           />
         </h2>
-        <p className="text-base font-bodyFont leading-6 tracking-wide">
+        <p className="text-base font-bodyFont leading-6 tracking-wide ">
           തിരുവനന്തപുരത്തെ veda wellness സെൻററിൽ ഓരോ വ്യക്തികൾക്കും അവരുടെ
-          ആവശ്യത്തിന് അനുയോജ്യമായ രീതിയിൽ മസ്സാജ് ചികിത്സകൾ പ്രദാനം ചെയ്യുന്നു ,
+          ആവശ്യത്തിന് അനുയോജ്യമായ രീതിയിൽ മസ്സാജ് ചികിത്സകൾ പ്രദാനം ചെയ്യുന്നു
           ജീവിതത്തിന്റ തിരക്ക് പിടിച്ച സമയത്തിനിടയിൽ മനസ്സും ശരീരവും
           പൂർണ്ണതൃപ്തപിയും തിരക്കുകളിൽ നിന്നും ഒരു മോചനം ലഭിക്കാൻ ഇവിടെ വരൂ.
+          നിങ്ങളുടെ സമാധാനത്തിനായുള്ള സ്വർഗ്ഗമായ veda wellness ൽ തികഞ്ഞ
+          സമാധാനവും നിങ്ങളുടെ ദിവസേനയുടെ പിരിമുറുക്കം അലിഞ്ഞുപോകുകയും ആശ്വാസം
+          പ്രധാനം ചെയ്യുകയും ചെയ്യും. നിങ്ങളുടെ ശരീരത്തിനും മനസ്സിനും പുതു ജീവന്
+          നൽകുന്നതിനായി ഞങ്ങളുടെ സേവനങ്ങൾ ശ്രദ്ധാപൂർവ്വം തയ്യാറാക്കിയതാണ്,
+          നിങ്ങളുടെ ജീവിതത്തിന് ഇടയിൽ സമാധാനത്തിന്റെ ഒരു തിരുശ്ശീല ഒരുക്കുകയാണ്
+          ഞങ്ങൾ. ആകെ ആശ്വാസത്തിനായി വിശാലമായ, സൗമ്യമായ massage മുഖേന ആശ്വാസവും
+          പിരിമുറുക്കമോചനവും പ്രദാനം ചെയ്യുന്നു.
         </p>
       </div>
       {/* Media */}

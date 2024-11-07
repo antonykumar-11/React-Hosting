@@ -2,7 +2,7 @@ import React from "react";
 import Banner from "./Home/Banner";
 import Contact from "./Home/Contact";
 import Features from "./Home/Features ";
-import Footer from "./Home/Footer";
+
 import FooterBottom from "./Home/FooterBottom";
 import Navbar from "./Home/NavBar";
 import Projects from "./Home/Projects";
@@ -17,10 +17,10 @@ function App() {
         <Banner />
         <Features />
         <Projects />
-
+        <Resume />
         <Testimonial />
         <Contact />
-        <Footer />
+
         <FooterBottom />
       </div>
     </div>
