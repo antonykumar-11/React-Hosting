@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Hosting/static/css/main.2f8c8687.css",
+    "main.js": "/React-Hosting/static/js/main.c2847c23.js",
+    "static/media/massage-1.png": "/React-Hosting/static/media/massage-1.142006da1e6589340ce3.png",
+    "static/media/massage3.png": "/React-Hosting/static/media/massage3.b55e446ae0cad23dd287.png",
+    "static/media/dummy2.png": "/React-Hosting/static/media/dummy2.d0933306a21ec9897da6.png",
+    "static/media/bodymassage.jpg": "/React-Hosting/static/media/bodymassage.894f33bf859b85064e80.jpg",
+    "static/media/dummy5.jpg": "/React-Hosting/static/media/dummy5.841150bda017b33f4a50.jpg",
+    "static/media/massage2.png": "/React-Hosting/static/media/massage2.62a29a0c8974b8504191.png",
+    "static/media/contactImg.png": "/React-Hosting/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/dummy.png": "/React-Hosting/static/media/dummy.171d096f60fe69cc9589.png",
+    "static/media/testimonialOne.png": "/React-Hosting/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/React-Hosting/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/React-Hosting/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/React-Hosting/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/React-Hosting/index.html",
+    "main.2f8c8687.css.map": "/React-Hosting/static/css/main.2f8c8687.css.map",
+    "main.c2847c23.js.map": "/React-Hosting/static/js/main.c2847c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f8c8687.css",
+    "static/js/main.c2847c23.js"
+  ]
+}
