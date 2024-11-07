@@ -38,7 +38,7 @@ const PriceTable = () => {
   // Handle the book now action
   const handleBookNow = () => {
     // Initiate a phone call to the specified number
-    const phoneNumber = "8129124809";
+    const phoneNumber = "8590948110";
     window.location.href = `tel:${phoneNumber}`;
   };
 
